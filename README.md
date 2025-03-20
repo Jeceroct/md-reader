@@ -1,39 +1,8 @@
-# mdreader
+# mdreader | md文档阅读器
 
-This template should help get you started developing with Vue 3 in Vite.
+你只需要打开dist文件夹中的index.html，然后上传你的md文件即可预览它。
 
-## Recommended IDE Setup
+下面是它已经实现的样式：
+![image](https://github.com/user-attachments/assets/f90e7bd4-26ba-4ee0-871e-512643c24bc4)
+![image](https://github.com/user-attachments/assets/123b8c5b-1b18-4f96-b672-4392af4512f5)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
